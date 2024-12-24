@@ -14,7 +14,7 @@
 
 ## <a name="introduction">Introduction</a>
 
-Used Next.js to create a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to users on other platforms, and manages finances. 
+Used Next.js to create a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to users on other platforms, and manage finances. 
 
 ## <a name="tech-stack">Tech Stack</a>
 
