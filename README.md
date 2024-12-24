@@ -47,7 +47,7 @@ Make sure you have the following installed on your machine:
 **Clone the Repository**
 
 ```bash
-git clone https://github.com/GavinWang-2024/Banking_Accounts_Manager.git)
+git clone https://github.com/GavinWang-2024/Banking_Accounts_Manager.git
 ```
 
 **Installation**
